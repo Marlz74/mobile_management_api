@@ -38,7 +38,7 @@ A RESTful API for Mobile Device Management (MDM) built with Laravel 11, implemen
 
 ```bash
 git clone https://github.com/Marlz74/mobile_management_api.git
-cd mdm-api
+cd mobile_management_api
 ```
 
 ### 2. Install Dependencies
