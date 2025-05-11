@@ -1,9 +1,6 @@
-```markdown
-# MDM API (v1)
+# Mobile Development Management API (v1)
 
 A RESTful API for Mobile Device Management (MDM) built with Laravel 11, implementing device registration, locking, and unlocking with JWT authentication, MySQL database, and standardized JSON responses. This project is submitted for the Celebrare Laravel Developer Internship.
-
----
 
 ## Features
 
@@ -20,7 +17,6 @@ A RESTful API for Mobile Device Management (MDM) built with Laravel 11, implemen
   - Login: `{ status, message, data: { user, authorization } }`
 - **Bonus Features**: Input validation, API resource for devices, simulated external API calls.
 
----
 
 ## Requirements
 
@@ -29,8 +25,6 @@ A RESTful API for Mobile Device Management (MDM) built with Laravel 11, implemen
 - MySQL
 - Composer
 - Postman (for testing)
-
----
 
 ## Setup Instructions
 
